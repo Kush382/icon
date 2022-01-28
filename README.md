@@ -1,3 +1,2 @@
-# icon
-#type=svg
-#© Era Corner. All Rights Reserved
+All files are for commercial use. 
+© Copyright 2022. All Rights Reserved.
